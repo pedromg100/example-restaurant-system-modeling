@@ -18,6 +18,10 @@ System designed to store and analyze weekly sales data from approximately 50,000
 
 ## Data Model
 
+### Schema diagram
+
+![Schema diagram](restaurant_system_diagram.png)
+
 ### Core Tables
 1. `store`
    - Represents individual franchise locations
